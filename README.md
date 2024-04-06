@@ -7,3 +7,5 @@ The purpose of this site is to showcase how my data skills can contribute to a b
 ## Disclaimer
 
 I'm not a web developer, so there may be areas where improvements can be made. However, I've done my best to follow best practices and create a site that is easy to navigate and provides all the necessary information.
+
+## Wildly not updated anymore
